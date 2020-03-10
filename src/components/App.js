@@ -5,8 +5,14 @@ import Detail from './Detail'
 import Goodies from './Goodies'
 import Info from './Info'
 import Footer from './Footer'
+import AOS from 'aos'
+import 'aos/dist/aos.css'
 
 const App = () => {
+  React.useEffect(() => {
+    AOS.init()
+  }, [])
+
   return (
     <div>
       <Navbar />

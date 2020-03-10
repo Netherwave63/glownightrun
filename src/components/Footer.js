@@ -3,7 +3,7 @@ import contents from '../contents'
 
 const Footer = () => {
   return (
-    <footer>
+    <footer className='section pt-0'>
       {contents.footerMessage.map(message =>
         <p className='text-center'>{message}</p>
       )}

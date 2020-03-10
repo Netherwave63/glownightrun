@@ -3,10 +3,10 @@ import contents from '../contents'
 
 const Goodies = () => {
   return (
-    <section className='section'>
+    <section className='section pt-0'>
       <div className='container'>
         <div className='content'>
-          <p>Registering will get you:</p>
+          <p className='text-xl text-primary'>Registering will get you:</p>
           <ul>
             {contents.goodies.map(goody =>
               <li key='goody'>{goody}</li>
