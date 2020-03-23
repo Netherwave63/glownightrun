@@ -1,18 +1,20 @@
-const contents = {
+﻿const contents = {
   name: '17GlowNight Run Event',
   date: '17 April 2020',
-  time: '4pm',
+  time: '7.00p.m - 11.00 p.m',
   day: 'Friday',
-  place: 'Live Oak Brewing‘s taproom and brewery',
-  address: '1615 Crozier Lane, Austin, TX 78617',
+  place: 'Dataran L50, UTM Skudai, Johor',
+  address: 'Sultan Ibrahim Chancellery Building, Jalan Iman, 81310 Skudai, Johor',
   thankYouMessage: 'A big THANK YOU to everyone who participated in the 17GlowNight Run Event.  We had a great time and hope you did too!',
   facebookFanPage: 'Pictures are posted on our Facebook Page!  Check them out by clicking HERE!',
   goodies: [
-    'Entry into the Scavenger Hunt Beer Run',
+    'Entry into the Glow Night Run',
     'Custom t-shirt with event logo',
-    '5 oversized samples of Live Oak Brewing’s craft beer DURING the Scavenger Hunt',
-    'Custom souvenir pint glass with event logo',
-    'One FREE pint of your choice after you finish the Scavenger Hunt',
+    'Glowing (Neon) kits',
+    'Finisher's e-Medal',
+    'Finisher's e-Certificate',
+    'e-Bib,
+    'Refreshment,
     'A great story to tell your sorry friends who didn’t join you!',
   ],
   infos: [
@@ -33,7 +35,7 @@ const contents = {
     },
   ],
   footerMessage: [
-    'All registrations are final.  There will be no refunds or transfers.  Thank you for understanding',
+    'Registeration are opening now. Get your ticket',
     'If you have any questions at all, please don’t hesitate to email us at info@InspiredRaceEvents.com',
   ],
   googleFormLink: 'https://docs.google.com/forms/d/11Fl6vAfzM6RFaeIRO_UB-Hl6I483WzRr9bL70vcW0Nk/edit',
