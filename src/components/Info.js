@@ -14,7 +14,7 @@ const Info = () => {
             <hr />
           </div>
         )}
-        <figure className='text-center'><img src='https://via.placeholder.com/300x300' width='300' height='300' /></figure>
+        <figure className='text-center'><img src={contents.images.bottom} width='300' height='300' /></figure>
         <hr />
       </div>
     </section>
