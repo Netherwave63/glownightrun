@@ -7,7 +7,7 @@ const Navbar = () => {
       <div className='container'>
         <div className='navbar-brand'>
           <a className='navbar-item' href='#'>
-            <img src={contents.images.logo} width='112' height='28' />
+            <img src={contents.images.logo} width='112' />
           </a>
 
           <a role='button' className='navbar-burger burger' aria-label='menu' aria-expanded='false' data-target='navbarBasicExample'>
