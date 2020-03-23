@@ -38,6 +38,11 @@
     'Registeration are opening now. Get your ticket',
     'If you have any questions at all, please don’t hesitate to email us at info@InspiredRaceEvents.com',
   ],
+  images: {
+    logo: 'https://via.placeholder.com/112x28',
+    top: 'https://via.placeholder.com/300x238',
+    bottom: 'https://via.placeholder.com/300x300'
+  },
   googleFormLink: 'https://docs.google.com/forms/d/11Fl6vAfzM6RFaeIRO_UB-Hl6I483WzRr9bL70vcW0Nk/edit',
 }
 
