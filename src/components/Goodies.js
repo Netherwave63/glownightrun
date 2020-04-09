@@ -8,9 +8,12 @@ const Goodies = () => {
         <div className='content'>
           <p className='text-xl text-primary'>Registering will get you:</p>
           <ul>
-            {contents.goodies.map(goody =>
-              <li key='goody'>{goody}</li>
-            )}
+            {contents.goodies.map(goody => {
+              const style = { color: goody[2] ? goody[2] : '#000' };
+              return (
+                goody.length > 1 ? <li key='goody'><i style={style} className={goody[1]}></i> {goody[0]}</li> : <li key='goody'>{goody[0]}</li>
+              )
+            })}
           </ul>
           <hr />
         </div>

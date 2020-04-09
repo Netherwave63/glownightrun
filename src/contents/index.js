@@ -6,16 +6,16 @@
   place: 'Dataran L50, UTM Skudai, Johor',
   address: 'Sultan Ibrahim Chancellery Building, Jalan Iman, 81310 Skudai, Johor',
   thankYouMessage: 'Do you like to jogging at night? Have u experience any night run with glow accessories? We are here to organise a glow night run for u to enjoy a beautiful and enjoyable glowing moment on that night run. Join us now to believe!!!',
-  facebookFanPage: 'Pictures are posted on our Facebook Page!  Check them out by clicking HERE!',
+  facebookFanPage: 'Pictures are posted on our Facebook Page!  Check them out by clicking',
   goodies: [
-    'Entry ticket (QR code)',
-    'Sizehand Neon fabric t-shirt',
-    'Glowing kits',
-    "Finisher's e-Medal",
-    "Finisher's e-Certificate",
-    'e-Bib number',
-    'Refreshment',
-    'A great story to tell your sorry friends who didn’t join you!',
+    ['Entry ticket (QR code)', "fas fa-ticket-alt", 'red'],
+    ['Sizehand Neon fabric t-shirt'],
+    ['Glowing kits'],
+    ["Finisher's e-Medal"],
+    ["Finisher's e-Certificate"],
+    ['e-Bib number'],
+    ['Refreshment'],
+    ['A great story to tell your sorry friends who didn’t join you!'],
   
 ],
   infos: [
@@ -37,7 +37,7 @@
   ],
   footerMessage: [
     'Registeration are opening now. Get your ticket immediately',
-    'If you have any questions at all, please don’t hesitate to email us at info@InspiredRaceEvents.com',
+    'If you have any questions at all, please don’t hesitate to email us at ',
   ],
   images: {
     logo: 'images/UTMLOGO.png',
@@ -46,6 +46,7 @@
    
   },
   googleFormLink: 'https://docs.google.com/forms/d/11Fl6vAfzM6RFaeIRO_UB-Hl6I483WzRr9bL70vcW0Nk/edit',
+  facebookLink: 'https://web.facebook.com/566924054253540/photos/2376390859325477/?av=100008637580616'
 }
 
 export default contents

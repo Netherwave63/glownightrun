@@ -20,15 +20,11 @@ const Navbar = () => {
         <div id='navbarBasicExample' className='navbar-menu'>
           <div className='navbar-start'>
             <a className='navbar-item'>
-              Option 1
+              Sign in
             </a>
 
             <a className='navbar-item'>
-              Option 2
-            </a>
-
-            <a className='navbar-item'>
-              Option 3
+              Logout
             </a>
           </div>
         </div>

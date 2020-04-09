@@ -57,3 +57,9 @@ hr {
 dt {
   margin-bottom: 1.25rem; /* 20px / 16px */
 }
+
+
+
+.hero {
+  background: black url("./images/banner.jpg") no-repeat scroll center / cover !important;
+}
