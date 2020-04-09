@@ -1,27 +1,28 @@
 ﻿const contents = {
-  name: '17GlowNight Run Event',
+  name: '17 Glow Night Run Event',
   date: '17 April 2020',
   time: '7.00p.m - 11.00 p.m',
   day: 'Friday',
   place: 'Dataran L50, UTM Skudai, Johor',
   address: 'Sultan Ibrahim Chancellery Building, Jalan Iman, 81310 Skudai, Johor',
-  thankYouMessage: 'A big THANK YOU to everyone who participated in the 17GlowNight Run Event.  We had a great time and hope you did too!',
+  thankYouMessage: 'Do you like to jogging at night? Have u experience any night run with glow accessories? We are here to organise a glow night run for u to enjoy a beautiful and enjoyable glowing moment on that night run. Join us now to believe!!!',
   facebookFanPage: 'Pictures are posted on our Facebook Page!  Check them out by clicking HERE!',
   goodies: [
-    'Entry into the Glow Night Run',
-    'Custom t-shirt with event logo',
-    'Glowing (Neon) kits',
-    'Finisher's e-Medal',
-    'Finisher's e-Certificate',
-    'e-Bib,
-    'Refreshment,
+    'Entry ticket (QR code)',
+    'Sizehand Neon fabric t-shirt',
+    'Glowing kits',
+    "Finisher's e-Medal",
+    "Finisher's e-Certificate",
+    'e-Bib number',
+    'Refreshment',
     'A great story to tell your sorry friends who didn’t join you!',
-  ],
+  
+],
   infos: [
     {
       // entry fees
-      heading: 'The Scavenger Hunt Beer Run is a unique event',
-      description: 'Right before the event begins, you will get your first beer sample and a map of Live Oak Brewing’s property.  On the back of the map there will be 8 clues, sending you to 8 different checkpoints throughout the property.  There will be FOUR beer checkpoints and FOUR dummy checkpoints.  After you visit all 8 checkpoints, run through the finish line and receive your souvenir event pint glass and full pint!  The fastest four finishers will receive a Live Oak Brewing swag package.'
+      heading: 'The 17 Glow Night Run is a unique event with a new concept of run',
+      description: 'Right before the event begins, you will get your race kits such as entry ticket, sizehand neon fabric t-shirt, e-Bib number and glowing accessories. On the event day, u will able to enjoy various musical perfomances before start your running with glow accessories on that night. There will be four checkpoints along the runner route. Runner will able to receive glowstick at every checkpoints as to determine winners  After you visit all the 4 checkpoints, run through the finish line and receive your souvenir event pint glass and full pint!  The fastest four finishers will receive a Live Oak Brewing swag package.'
     },
     {
       // terms and conditions
@@ -35,15 +36,18 @@
     },
   ],
   footerMessage: [
-    'Registeration are opening now. Get your ticket',
+    'Registeration are opening now. Get your ticket immediately',
     'If you have any questions at all, please don’t hesitate to email us at info@InspiredRaceEvents.com',
   ],
   images: {
-    logo: 'https://via.placeholder.com/112x28',
-    top: 'https://via.placeholder.com/300x238',
-    bottom: 'https://via.placeholder.com/300x300'
+    logo: 'images/UTMLOGO.png',
+    top: 'images/UTMLOGO.png',
+    bottom: 'images/UTMLOGO.png'
+   
   },
   googleFormLink: 'https://docs.google.com/forms/d/11Fl6vAfzM6RFaeIRO_UB-Hl6I483WzRr9bL70vcW0Nk/edit',
 }
 
 export default contents
+
+// ../images/UTM LOGO.png
