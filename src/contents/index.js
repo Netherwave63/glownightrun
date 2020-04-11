@@ -37,7 +37,7 @@
   ],
   footerMessage: [
     'Registeration are opening now. Get your ticket immediately',
-    Register now by access into our google form',
+    'Register now by access into our google form',
   ],
   images: {
 
