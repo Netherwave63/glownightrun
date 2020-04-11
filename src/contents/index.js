@@ -27,7 +27,7 @@
     {
       // terms and conditions
       heading: 'GlowNightRun Entertainment',
-      description: 'On the event day, there is a musical performance with a dubstep concept!' We used high bass and rock rhythm to create wonderful music that can help our participants to enjoy and relax. In addition that, we have prepared total 20 prize for lucky draw section. Join us to try your luck. Lastly, participants also will be served by various food stall. Do not miss this chance if u are food lovers too.'
+      description: "On the event day, there is a musical performance with a dubstep concept! We used high bass and rock rhythm to create wonderful music that can help our participants to enjoy and relax. In addition that, we have prepared total 20 prize for lucky draw section. Join us to try your luck. Lastly, participants also will be served by various food stall. Do not miss this chance if u are food lovers too."
     },
     {
       // contact us
