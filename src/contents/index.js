@@ -1,5 +1,5 @@
 ﻿const contents = {
-  name: '17 Glow Night Run Event',
+  name: 'Glow Night Run',
   date: '17 April 2020',
   time: '7.00p.m - 11.00 p.m',
   day: 'Friday',
@@ -8,39 +8,39 @@
   thankYouMessage: 'Do you like to jogging at night? Have u experience any night run with glow accessories? We are here to organise a glow night run for u to enjoy a beautiful and enjoyable glowing moment on that night run. Join us now to believe!!!',
   facebookFanPage: 'Pictures are posted on our Facebook Page!  Check them out by clicking',
   goodies: [
-    ['Entry ticket (QR code)', "fas fa-ticket-alt", 'red'],
-    ['Sizehand Neon fabric t-shirt'],
-    ['Glowing kits'],
-    ["Finisher's e-Medal"],
-    ["Finisher's e-Certificate"],
-    ['e-Bib number'],
-    ['Refreshment'],
-    ['A great story to tell your sorry friends who didn’t join you!'],
+    ['Entry ticket (QR code)', "fas fa-ticket-alt", 'silver'],
+    ['Sizehand Neon fabric t-shirt', "fas fa-tshirt", 'green'],
+    ['Glowing kits', "fas fa-archive", 'brown'],
+    ["Finisher's e-Medal", "fas fa-medal", 'gold'],
+    ["Finisher's e-Certificate", "fas fa-certificate", 'gold'],
+    ['e-Bib number', "fas fa-list-ol", 'grey'],
+    ['Refreshment', "fas fa-bread-slice", 'brown'],
+    ['A great story to tell your sorry friends who didn’t join you!', "fas fa-smile-wink", 'purple'],
   
 ],
   infos: [
     {
       // entry fees
       heading: 'The 17 Glow Night Run is a unique event with a new concept of run',
-      description: 'Right before the event begins, you will get your race kits such as entry ticket, sizehand neon fabric t-shirt, e-Bib number and glowing accessories. On the event day, u will able to enjoy various musical perfomances before start your running with glow accessories on that night. There will be four checkpoints along the runner route. Runner will able to receive glowstick at every checkpoints as to determine winners  After you visit all the 4 checkpoints, run through the finish line and receive your souvenir event pint glass and full pint!  The fastest four finishers will receive a Live Oak Brewing swag package.'
+      description: "Right before the event begins, you will get your race kits such as entry ticket, sizehand neon fabric t-shirt, e-Bib number and glowing accessories. On the event day, participants are allowed to run with glow accessories on that night. There will be four checkpoints along the runner route. Runner will able to receive glowstick at every checkpoints as for winners determination.  After you visit all the 4 checkpoints, run through the finish line and receive your finisher's medal. The fastest three finishers will receive a bonus in myr!"
     },
     {
       // terms and conditions
-      heading: 'Scavenger Hunt Root Beer Run',
-      description: 'This is a family friendly event!  For participants under 21 years old, designated drivers and non-beer drinkers, we will have a Root Beer Division as well!  We will have root beer during the Scavenger Hunt and the Root Beer Division participants will still get the same swag as the Beer Run participants. You are more than welcome to bring your properly leashed dogs too!'
+      heading: 'GlowNightRun Entertainment',
+      description: 'On the event day, there is a musical performance with a dubstep concept!' We used high bass and rock rhythm to create wonderful music that can help our participants to enjoy and relax. In addition that, we have prepared total 20 prize for lucky draw section. Join us to try your luck. Lastly, participants also will be served by various food stall. Do not miss this chance if u are food lovers too.'
     },
     {
       // contact us
       heading: 'Times',
-      description: 'Packet Pickup will be onsite at Live Oak Brewing’s taproom and brewery from 2pm-3:45pm on race day, Saturday November 17th, 2018.  Come out early to get a good parking spot and enjoy a pint before the run.  We will pass out the Scavenger Hunt clues at 3:45pm.  The event will be around 3 miles of running/walking and will start at 4pm.'
+      description: 'Register with us online for the first 100 participants can get earlybird discount with only 45 myr. We also offer 3% discount for those who have like and share our Facebook fan page. Vertification will be make through Facebook messenger or gmail.'
     },
   ],
   footerMessage: [
     'Registeration are opening now. Get your ticket immediately',
-    'If you have any questions at all, please don’t hesitate to email us at ',
+    Register now by access into our google form',
   ],
   images: {
-    logo: 'images/UTMLOGO.png',
+
     top: 'images/UTMLOGO.png',
     bottom: 'images/UTMLOGO.png'
    
