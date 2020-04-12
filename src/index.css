@@ -63,3 +63,9 @@ dt {
 .hero {
   background: black url("./images/banner.jpg") no-repeat scroll center / cover !important;
 }
+
+
+
+footer {
+  word-break: break-word;
+}
